@@ -35,7 +35,7 @@ button {
 }
 
 .cta-green {
-    background: #00FFAD;
+    background: whitesmoke;
     color: #192440;
 }
 
@@ -74,7 +74,7 @@ button {
 }
 
 #banner header img {
-    max-width: 80px;
+    max-width: 180px;
 }
 
 /********** feature (skew background) **********/
